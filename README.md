@@ -1,2 +1,3 @@
-# LEDBannerSupport
-Support page for LEDBanner app
+# LEDBanner Support Page
+
+For requests and suggestions, please contact baer128059@gmail.com
